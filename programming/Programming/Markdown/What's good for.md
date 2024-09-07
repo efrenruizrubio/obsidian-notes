@@ -1,0 +1,1 @@
+Is a fast and easy way to take notes, create content for a website, make a print-ready document, but it can be used as basically for anything writable. It must be noted that it works as a formatter, using the special syntax to write anything.

@@ -1,0 +1,1 @@
+Text-encoding system which specifies the structure and formatting of a document and potentially the relationships among its parts. Can control the display of a document or enrich its content to facilitate automated processing.
